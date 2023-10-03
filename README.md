@@ -5,6 +5,7 @@
     <p style="width: 30%">Project of a Sonar made with two (communicating via USART) STM32 microcontroller, an OLED display, a servomotor and a ultrasonic sensor. </p>
 </div>
 ---
+
 ## Video
 
 https://github.com/lorenhx/BatViewer/assets/33938788/103707f5-ba0a-4044-b1d6-223cbcaa868c
